@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+html {
+    background-color: black;
+}
+
+.container #pe{
+    color: whitesmoke;
+    font-family: 'Syne Mono', monospace;
+    font-size: 40px;
+}
+
+.container #pe-dois{
+    color: whitesmoke;
+    font-family: 'Syne Mono', monospace;
+    font-size: 12px;
+}
+
+.container #pe-dois #git{
+    color: darkslateblue;
+    text-decoration: none;
+}
